@@ -19,3 +19,4 @@ In this project, the following items have been implemented:
   * **Pawer_Law_scaling**, **Window_scaling**, **Boltzmann_scaling**, **Sigma_Cutting_scaling** and **Linear_scaling** as scaling methods.
 
 If you want to change the parameters, you can change them in the file named 'input.txt'.
+
