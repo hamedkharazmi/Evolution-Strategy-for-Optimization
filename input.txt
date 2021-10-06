@@ -1,0 +1,50 @@
+number of generation=100
+number of population=100
+number of children=700
+n=2
+sigma=0.5
+C=0.8
+................................................ function ................................................
+1 => f1(x) = An + sigma_1:n_[xi^2-Acos(2pi xi)]
+2 => f2(x) = -a exp (-b sqrt(1/n sigma_1:n_(xi^2))) - exp (1/n sigma_1:n_(cos(cxi))) + a + exp(1)
+3 => f3(x) = 10.n + sigma_1:n_( xi>5.12 or xi<-5.12: 10.xi^2 , -5.12<=xi<=5.12: xi^2-10.cos(2pi xi) )
+Your choice:2
+If you have selected "f2(x)" enter a,b,c:
+a=0.5
+b=1.0
+c=1.5
+.............................................. SigmaModifire ..............................................
+1 => oneFifth Success Rule
+2 => self adaption
+Your choice:2
+.................................................. xover ..................................................
+1 => single
+2 => simple
+3 => whole
+your choice:2
+alpha=0.3
+............................................ selection method .............................................
+1 => roulette_wheel
+2 => sus
+3 => tournament
+Your choice:2
+If you have selected "tournament" enter k:
+k=10
+................................................. scaling .................................................
+0 => No scaling
+1 => pawer_Law_scaling
+2 => panjere_bandi_scaling
+3 => boltzmann_scaling
+4 => Sigma_Cutting_scaling
+5 => Linear_scaling
+Your choice:0
+If you have selected "pawer_Law_scaling" enter k:
+k=2.0
+If you have selected "boltzmann_scaling" enter T:
+T=2.0
+If you have selected "Sigma_Cutting_scaling" enter c: (1<=c<=3)
+c=2.0
+If you have selected "Linear_scaling" enter c: 
+c=2.0
+How many times should scaling be used?
+number_of_scaling=5
