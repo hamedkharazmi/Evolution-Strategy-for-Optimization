@@ -17,3 +17,5 @@ In this project, the following items have been implemented:
   * **Single**, **Simple** and **Whole** Crossover.
   * **Roulette_Wheel**, **SUS** and **Tournament** as Selection Methods.
   * **Pawer_Law_scaling**, **Window_scaling**, **Boltzmann_scaling**, **Sigma_Cutting_scaling** and **Linear_scaling** as scaling methods.
+
+If you want to change the parameters, you can change them in the file named 'input.txt'.
