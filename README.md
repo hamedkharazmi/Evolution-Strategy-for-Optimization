@@ -11,3 +11,9 @@ These functions are as follows:
   <br/><br/>n-Dimensional Rastrigin function:<br/>
   <img src="https://github.com/hamedkharazmi/Evolution-Strategy-for-Optimization/blob/master/files/3- n-Dimensional Rastrigin function.png"/>
 </p>
+
+In this project, the following items have been implemented:
+  * **One-Fifth Success Rule** and **Self-Adaptation** mechanisms.
+  * **Single**, **Simple** and **Whole** Crossover.
+  * **Roulette_Wheel**, **SUS** and **Tournament** as Selection Methods.
+  * **Pawer_Law_scaling**, **Window_scaling**, **Boltzmann_scaling**, **Sigma_Cutting_scaling** and **Linear_scaling** as scaling methods.
