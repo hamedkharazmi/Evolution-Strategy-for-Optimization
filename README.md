@@ -4,7 +4,7 @@ a Solution for Optimizing three famous benchmark function ([Rastrigin function](
 These functions are as follows:
 
 <p float="left">
-  <br/>Rastrigin function:<br/>
+  Rastrigin function:<br/>
   <img src="https://github.com/hamedkharazmi/Evolution-Strategy-for-Optimization/blob/master/files/1- Rastrigin function.png"/>
   <br/><br/>Ackley function:<br/>
   <img src="https://github.com/hamedkharazmi/Evolution-Strategy-for-Optimization/blob/master/files/2- Ackley function.png"/> 
